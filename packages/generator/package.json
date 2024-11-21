@@ -1,9 +1,14 @@
 {
-  "name": "@pdfme/generator",
-  "version": "0.0.0",
-  "sideEffects": false,
-  "author": "hand-dot",
+  "name": "@dsapdfmecustom542/generator",
+  "version": "0.0.1",
+  "files": ["dist", "README.md"],
+  "author": "8an3",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/8an3/dsaPDFMeCustom-5.4.2.git",
+    "directory": "packages/common"
+  },
   "keywords": [
     "pdf",
     "pdf-generation",
@@ -13,14 +18,6 @@
     "react"
   ],
   "description": "TypeScript base PDF generator and React base UI. Open source, developed by the community, and completely free to use under the MIT license!",
-  "homepage": "https://pdfme.com",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:pdfme/pdfme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/pdfme/pdfme/issues"
-  },
   "main": "dist/cjs/src/index.js",
   "module": "dist/esm/src/index.js",
   "types": "dist/types/src/index.d.ts",

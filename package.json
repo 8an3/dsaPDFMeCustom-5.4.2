@@ -1,12 +1,12 @@
 {
   "name": "@dsapdfmecustom542/root",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "private": false,
   "author": "8an3",
   "license": "MIT", 
   "repository": {
     "type": "git",
-    "url": "https://github.com/8an3/dsapdfmecustom.git"
+    "url": "https://github.com/8an3/dsaPDFMeCustom-5.4.2.git"
   },
   "keywords": [
     "pdf",
